@@ -5,15 +5,15 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>BensToolbox</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Sun, 30 Aug 2026 17:50:52 -0400</pubDate>
+            <pubDate>Sun, 30 Aug 2026 18:16:06 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
-            <sparkle:version>11</sparkle:version>
+            <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox-1.0.0.zip" length="3841591" type="application/octet-stream" sparkle:edSignature="UzH4V2fv0wLi9a36iD+tcVhfICEgHLzwCvtHp1KRLHebbwOYz5Ss+qWV6M0GjBONbjXEtgfdvOMXv+Z9mP36BQ=="></enclosure>
+            <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox-1.0.0.zip" length="3837865" type="application/octet-stream" sparkle:edSignature="lhp2Bm0RrGBZMbRNBjLNdB3CHdmmEI4zrHUgB/krtyXiA+f1LWCIr+N3J9ogIy2FKp9PkLdEgw1iqS1Aj0+YCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: BMNxEs7lsAMn6O7f7whYVaQPl9ZVrG4AHM181R3p1jx9EiulZdLCAVvvQa7lpcbSXEdvZVtEPnKOgdsVtxIFCg==
+edSignature: Ofhl0cqn5igUV5AFPJHiezsPSLAuTBXrO2gkoN4cY0XB8v0VnCFgSgiY4xLBeU2xPEeQRy/MxaWv6c1szsBNCQ==
 length: 1100
 -->
