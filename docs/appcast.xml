@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BensToolbox</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 30 Aug 2026 18:32:39 -0400</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/downloads/BensToolbox-1.0.0.zip" length="3837865" type="application/octet-stream" sparkle:edSignature="lhp2Bm0RrGBZMbRNBjLNdB3CHdmmEI4zrHUgB/krtyXiA+f1LWCIr+N3J9ogIy2FKp9PkLdEgw1iqS1Aj0+YCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 0r97pa7cqSxtNiWUny8irWav1+mJ6a2Ej0LOrHfNMcP3bvXS3wkecPo5fjX5GR784NTHgWoJRONs/3hc2c2YBg==
+length: 1047
+-->
