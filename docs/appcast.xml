@@ -4,6 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BensToolbox</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 01 Sep 2026 06:58:32 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/downloads/BensToolbox-1.1.0.zip" length="3859214" type="application/octet-stream" sparkle:edSignature="DPGShnuJuz2e8VrxlsF5CHNCGo2M4VqHtRA7fIWt4GwJjtTxeSyGpCc5z9n4NNPVfyq735FyTdtSFd1eHiwlBA=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/downloads/BensToolbox13-12.delta" sparkle:deltaFrom="12" length="379542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lMWKAAi5s5bRR8RXuzJzM81ASurlbvmpwIz9kdGAD+k83kX7wyjEY1kRqSWQNpwYYLI6jjKJU+2wj5Q2WPYXAA=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sun, 30 Aug 2026 18:32:39 -0400</pubDate>
             <sparkle:version>12</sparkle:version>
@@ -13,6 +24,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 0r97pa7cqSxtNiWUny8irWav1+mJ6a2Ej0LOrHfNMcP3bvXS3wkecPo5fjX5GR784NTHgWoJRONs/3hc2c2YBg==
-length: 1047
+edSignature: dlIMK2o+02ZrGiNsR6P9JFsjjVIfOtfVfz8maZY1H0Bwwn6TVEFaTmlxeAGIHe0wKqkZ24nBKGC5gkXwQuu5Bw==
+length: 2136
 -->
