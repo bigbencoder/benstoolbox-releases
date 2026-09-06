@@ -4,6 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>BensToolbox</title>
         <item>
+            <title>1.32.0</title>
+            <pubDate>Sun, 06 Sep 2026 12:13:16 -0400</pubDate>
+            <sparkle:channel>staging</sparkle:channel>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>1.32.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox-1.32.0.zip" length="4621067" type="application/octet-stream" sparkle:edSignature="QY1G0e2dsnZB2oYaUYPPEBsa0Qr5WUCllKJc3fczIqdX9aDy6jMVJGFM8FGrXsoDZN/8G4EXa8v/F9xPYTlJBg=="></enclosure>
+            <sparkle:deltas>
+                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox47-46.delta" sparkle:deltaFrom="46" length="497862" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="02vRDABwgNJWkZ46b+YKXZ/Xf4Pq3SGv+N7MkCFnLv8Qmg22/LiBPmKEx0QrcDGiV3vLxEYzFn6hPw/im6lKAQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox47-45.delta" sparkle:deltaFrom="45" length="558926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="e1ehumILqrC1JVU31TPWiSo9GCyktSbvWBEls6kbWZ+j7yjP0KTJEvoCGirCbMOQ0SXwYfTGfpkcrViC/tPaDw=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox47-44.delta" sparkle:deltaFrom="44" length="583326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EzogiFXrp7E4N47jRjqHWLrmjiGgZA+n+SY298Rr837SwfL/IIwEJRf+qd859erAFu4U3xJEm9aLTif4HnKKAQ=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox47-43.delta" sparkle:deltaFrom="43" length="608446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3ehX/8Q93nW5F//fZNmeHRy45DQ6GHLjidcmyAdHAQHbw+FozK9Jc4i9FPmOmPhJJfP8ynQAHfb47hqz1aYaAg=="></enclosure>
+                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox47-42.delta" sparkle:deltaFrom="42" length="613226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MXM5SOVbxvgZVC12gCFB1qzGffohuPm4UsyAGiqmc3G/ukIwiqEoWlt7CrWn0MyA56BiN0JXN2D6sI9j/9qHDQ=="></enclosure>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.31.0</title>
             <pubDate>Sun, 06 Sep 2026 09:08:35 -0400</pubDate>
             <sparkle:channel>staging</sparkle:channel>
@@ -11,13 +27,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>1.31.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox-1.31.0.zip" length="4601374" type="application/octet-stream" sparkle:edSignature="D07SWT2GFLQmyVpeAl1qUX6IRwG4RsHxsSAXajVIP53ubjgiYkEyy/FCsSgS6ul0Z0IamHA1Q8Pc1789LfKkDg=="></enclosure>
-            <sparkle:deltas>
-                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox46-45.delta" sparkle:deltaFrom="45" length="436462" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Nh4gjml/5rANxWmCyXtezAaX3DVw2YPRaMakFHJ0uSJbIXwpuumNT7PzGMBrthCeWgUlzF2Dy5vAEpqULqBiBA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox46-44.delta" sparkle:deltaFrom="44" length="478322" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U6ckstxZrQGTBc3zEFNQH/Xe+Em7fRZ+/9zTFlgycKylqAMogWERcchwRxFyPNLnZDUl6kazRkHZXo1Z6oi0AA=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox46-43.delta" sparkle:deltaFrom="43" length="505042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Yqk5P2pMMEPICUuV8ouJSLwETPdbnNaYvzE0JHoansIKX3CQsJdnpHy0itLqtU7mYAPVU+DUqADK1Ak72MZwBg=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox46-42.delta" sparkle:deltaFrom="42" length="502110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GYgLbITI+3wtbwy/08JzTEeF0iYAIfvu23Wl4XLk7B7P3fKsvUc4ckIdwQXvU+v4gU/7M33XKExFlxk2BgryCQ=="></enclosure>
-                <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox46-41.delta" sparkle:deltaFrom="41" length="505934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ug0tHbvYIJt7iBzZhOQs0mSQen5sarmb7SmepxtS5Ul87LZsI7iH0xbcohZViunblYu6RFGC/IRrRGoX4jSmAA=="></enclosure>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.30.0</title>
@@ -28,17 +37,8 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox-1.30.0.zip" length="4584476" type="application/octet-stream" sparkle:edSignature="4BGbP3ixjel6p4HNwahOansysbLrZyCMLwFLseTO49thxQLtLZ1s/2bR9gQvsHbulgxXchJo0QdWNtkOsl5LCA=="></enclosure>
         </item>
-        <item>
-            <title>1.29.0</title>
-            <pubDate>Sat, 05 Sep 2026 23:51:05 -0400</pubDate>
-            <sparkle:channel>staging</sparkle:channel>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>1.29.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bigbencoder.github.io/benstoolbox-releases/staging/BensToolbox-1.29.0.zip" length="4554664" type="application/octet-stream" sparkle:edSignature="LzbQgrOSFk7Zicji3nUUFTjzdkWabeCXdI1gTcEbQt5fbpzHFPUS6v/fKg9RMl8C55Q6Erh6fIbqi1tkIfe+BQ=="></enclosure>
-        </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: B8bzhwMWzX6ADyLSgvO4f5HM+Q2pbAP0ypPNYGzz2oMsVCxtNEogM5pPhgwgoAdXcbN81srDlY1cFVxG9A6vCw==
+edSignature: 9z/66Y76w6OT9qIrer6j6shxRiGX5DIIcdS8RLS3s3PydwKIiEbw30z1yqXHNs0WJtrqGXraGW6M77pQPE6ZBw==
 length: 4569
 -->
